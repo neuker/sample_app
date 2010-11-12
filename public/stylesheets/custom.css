@@ -78,3 +78,7 @@ a.signup_button {
 	-webkit-border-radius: 10px;
 	border-radius: 10px;
 }
+footer nav {
+	float: none;
+	
+}
