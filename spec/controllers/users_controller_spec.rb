@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe UsersController do
-  reder views
+  render_views
 
   describe "GET 'new'" do
     it "should be successful" do
